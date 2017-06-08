@@ -12,3 +12,9 @@ NCTU 计算机组织 实验  Spring,2016
 VerilogHDL (ModelSim)
 
 COLAB1,COLAB2,COLAB3
+
+1 simple cpu (ALU)
+
+2 cpu
+
+3 pipeline
