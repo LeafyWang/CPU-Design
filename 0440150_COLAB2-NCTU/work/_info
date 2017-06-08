@@ -1,0 +1,274 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Modeltech_pe_edu_10.4a/examples
+vAdder
+!s110 1464107948
+!i10b 1
+!s100 bHiD5OYo=db=]U9R7`5^n0
+IE]Z^JDmnh`GaoG]MHcfR90
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/LAB2
+w1462199262
+8E:/LAB2/Adder.v
+FE:/LAB2/Adder.v
+Z2 L0 12
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1464107948.000000
+!s107 E:/LAB2/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/Adder.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@adder
+vALU
+Z5 !s110 1464107949
+!i10b 1
+!s100 J8>O4307I@aU^;>JGdlKl2
+I2S:gZSN^IO`QHML][delE3
+R0
+R1
+w1463487485
+8E:/LAB2/ALU.v
+FE:/LAB2/ALU.v
+R2
+R3
+r1
+!s85 0
+31
+Z6 !s108 1464107949.000000
+!s107 E:/LAB2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/ALU.v|
+!s101 -O0
+!i113 1
+R4
+n@a@l@u
+vALU_Ctrl
+R5
+!i10b 1
+!s100 CGkH=GLFz]=V:iXaEUb@D3
+I9lL=AiM?Q4iAPHhAHe28W1
+R0
+R1
+w1463333239
+8E:/LAB2/ALU_Ctrl.v
+FE:/LAB2/ALU_Ctrl.v
+R2
+R3
+r1
+!s85 0
+31
+R6
+!s107 E:/LAB2/ALU_Ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/ALU_Ctrl.v|
+!s101 -O0
+!i113 1
+R4
+n@a@l@u_@ctrl
+vDecoder
+R5
+!i10b 1
+!s100 7o[0AO[@5<[K172>aSaKA0
+I>KhCLIAI`bj5X2Nf6SDTL0
+R0
+R1
+w1463331796
+8E:/LAB2/Decoder.v
+FE:/LAB2/Decoder.v
+R2
+R3
+r1
+!s85 0
+31
+R6
+!s107 E:/LAB2/Decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/Decoder.v|
+!s101 -O0
+!i113 1
+R4
+n@decoder
+vInstr_Memory
+R5
+!i10b 1
+!s100 PM2MllfQzhW@mPcf]^X4N0
+I_[?879:K2b`E_dRo;dM8@0
+R0
+R1
+w1464107945
+8E:/LAB2/Instr_Memory.v
+FE:/LAB2/Instr_Memory.v
+R2
+R3
+r1
+!s85 0
+31
+R6
+!s107 E:/LAB2/Instr_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/Instr_Memory.v|
+!s101 -O0
+!i113 1
+R4
+n@instr_@memory
+vMUX_2to1
+R5
+!i10b 1
+!s100 [K=hD4e5Z9mB74AGm=RDM1
+I4`BkO^c945[zh9W[d]X9z3
+R0
+R1
+w1462454744
+8E:/LAB2/MUX_2to1.v
+FE:/LAB2/MUX_2to1.v
+R2
+R3
+r1
+!s85 0
+31
+R6
+!s107 E:/LAB2/MUX_2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/MUX_2to1.v|
+!s101 -O0
+!i113 1
+R4
+n@m@u@x_2to1
+vProgramCounter
+R5
+!i10b 1
+!s100 iTX215`DXV<00E0;TM84d1
+I[7Re<NdOb7H1ROgDozNb;1
+R0
+R1
+Z7 w1455615816
+8E:/LAB2/ProgramCounter.v
+FE:/LAB2/ProgramCounter.v
+R2
+R3
+r1
+!s85 0
+31
+R6
+!s107 E:/LAB2/ProgramCounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/ProgramCounter.v|
+!s101 -O0
+!i113 1
+R4
+n@program@counter
+vReg_File
+R5
+!i10b 1
+!s100 mIWUYa3z@hRU3R?V[z`C?0
+IOeBLA@DR;=O:InEXV4OL@0
+R0
+R1
+R7
+8E:/LAB2/Reg_File.v
+FE:/LAB2/Reg_File.v
+Z8 L0 11
+R3
+r1
+!s85 0
+31
+R6
+!s107 E:/LAB2/Reg_File.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/Reg_File.v|
+!s101 -O0
+!i113 1
+R4
+n@reg_@file
+vShift_Left_Two_32
+R5
+!i10b 1
+!s100 MRUTWbPGii^cMLKG`gQ^81
+I1Y6VRKQ=dc]EG?jFOO9W=0
+R0
+R1
+w1462454736
+8E:/LAB2/Shift_Left_Two_32.v
+FE:/LAB2/Shift_Left_Two_32.v
+R2
+R3
+r1
+!s85 0
+31
+R6
+!s107 E:/LAB2/Shift_Left_Two_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/Shift_Left_Two_32.v|
+!s101 -O0
+!i113 1
+R4
+n@shift_@left_@two_32
+vSign_Extend
+R5
+!i10b 1
+!s100 ab7jzZX?EH<_9<C0fB9Dd3
+IAbEJ5dI?@<5V2kNY;mURM0
+R0
+R1
+w1462378620
+8E:/LAB2/Sign_Extend.v
+FE:/LAB2/Sign_Extend.v
+R2
+R3
+r1
+!s85 0
+31
+R6
+!s107 E:/LAB2/Sign_Extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/Sign_Extend.v|
+!s101 -O0
+!i113 1
+R4
+n@sign_@extend
+vSimple_Single_CPU
+R5
+!i10b 1
+!s100 l89JNnmH<7_4o]_79H5MY3
+IdXFU2ML;hWfLK1?=QYZ3=0
+R0
+R1
+w1463465029
+8E:/LAB2/Simple_Single_CPU.v
+FE:/LAB2/Simple_Single_CPU.v
+R8
+R3
+r1
+!s85 0
+31
+R6
+!s107 E:/LAB2/Simple_Single_CPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/Simple_Single_CPU.v|
+!s101 -O0
+!i113 1
+R4
+n@simple_@single_@c@p@u
+vTestBench
+!s110 1464107950
+!i10b 1
+!s100 OhamdQIUKcOTB75Z^[NDF1
+IDjRYgjgfUJP3lQGaJ>;hk1
+R0
+R1
+R7
+8E:/LAB2/Test_Bench.v
+FE:/LAB2/Test_Bench.v
+L0 14
+R3
+r1
+!s85 0
+31
+!s108 1464107950.000000
+!s107 E:/LAB2/Test_Bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/LAB2/Test_Bench.v|
+!s101 -O0
+!i113 1
+R4
+n@test@bench
